@@ -1,0 +1,1 @@
+Simple pong game, controls for Player A are w and s, controls for Player B are Up and Down. You win the game when your score equals 10, and each time the ball bounces off a paddle the speed increases. 
